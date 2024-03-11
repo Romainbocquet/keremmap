@@ -1,0 +1,30 @@
+[
+    {
+      "maisonId": 1,
+      "title": "MAISON KERBOCQ",
+      "color": "allain-launay",
+      "imageLinks": ["./src/assets/house-img/kerbocq.png", "./src/assets/house-img/kerbocq.png"],
+      "description": "377 Kériogan. Habitée par Denis et Bénédicte BOCQUET et leurs enfants.",
+      "latitude": 48.637712,
+      "longitude": -4.256040
+    },
+    {
+      "maisonId": 2,
+      "title": "Maison historique 2",
+      "color": "red",
+      "imageLinks": ["https://lemagduchat.ouest-france.fr/images/dossiers/2023-06/mini/chat-cinema-061232-650-400.jpg"],
+      "description": "Une description de la maison historique 2.",
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    },
+    {
+      "maisonId": 3,
+      "title": "Maison historique 3",
+      "color": "green",
+      "imageLinks": ["https://lemagduchat.ouest-france.fr/images/dossiers/2023-06/mini/chat-cinema-061232-650-400.jpg"],
+      "description": "Une description de la maison historique 3.",
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  ]
+  

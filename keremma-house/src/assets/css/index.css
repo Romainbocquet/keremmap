@@ -1,0 +1,28 @@
+:root {
+  font-family: "Jacques Francois", serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+
+  color-scheme: light dark;
+  color: black;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #F1F1F1;
+}
+
+* {
+  margin: 0;
+}
+
+.jacques-francois-regular {
+  font-family: "Jacques Francois", serif;
+  font-weight: 400;
+  font-style: normal;
+}

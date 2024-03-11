@@ -1,0 +1,90 @@
+.top-home {
+    padding: 0px 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.top-home h1 {
+    font-size: 80px;
+}
+
+.top-home h1 {
+    font-size: 80px;
+}
+
+.top-home-img {
+    width: 35vw;
+}
+
+.top-home-img img {
+    width: 100%;
+}
+
+.bottom-home {
+    padding: 0px 72px;
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    align-items: center;
+    gap: 50px;
+    justify-content: space-between;
+}
+
+.bottom-home a{
+    text-decoration: none;
+    color: black;
+}
+
+.bottom-home .button-primary {
+    width: 450px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    border: 2px solid black;
+    border-top: 6px solid black;
+    border-right: 6px solid black;
+    padding: 15px 0px;
+    box-sizing: border-box;
+    transition: border 0.3s;
+}
+
+.bottom-home .button-primary:hover {
+    border: 6px solid black;
+}
+
+.rotate-90 {
+    transform: rotate(90deg);
+}
+
+.left {
+    display: flex;
+    gap: 100px;
+    font-size: 30px;
+}
+
+.left .ancetre {
+    font-size: 40px;
+}
+
+.left .ancetre span {
+    font-size: 20px;
+}
+
+.img-home {
+    padding: 0px 72px;
+    margin-bottom: 50px;
+}
+
+.img-container {
+    height: 400px;
+    background-image: url("../img/home-img.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.img-container img {
+    height: 100%;
+}
