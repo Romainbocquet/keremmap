@@ -1,0 +1,29 @@
+[
+  {
+    "maisonId": 1,
+    "title": "Maison historique 1",
+    "color": "blue",
+    "imageLinks": ["image1.jpg", "image2.jpg"],
+    "description": "Une description de la maison historique 1.",
+    "latitude": 48.8566,
+    "longitude": 2.3522
+  },
+  {
+    "maisonId": 2,
+    "title": "Maison historique 2",
+    "color": "red",
+    "imageLinks": ["image3.jpg"],
+    "description": "Une description de la maison historique 2.",
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  {
+    "maisonId": 3,
+    "title": "Maison historique 3",
+    "color": "green",
+    "imageLinks": ["image4.jpg"],
+    "description": "Une description de la maison historique 3.",
+    "latitude": 40.7128,
+    "longitude": -74.006
+  }
+]
